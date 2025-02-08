@@ -45,9 +45,9 @@
 	--txt-3: oklch(40% 0 0); /* color of muted text. */
 
 	/* accent colors */
-	--acc-0: var(--purple); /* main accent color. */
-	--acc-1: var(--purple-1); /* color of accent buttons when hovered. */
-	--acc-2: var(--purple-2); /* color of accent buttons when clicked. */
+	--acc-0: var(--pink); /* main accent color. */
+	--acc-1: var(--pink-1); /* color of accent buttons when hovered. */
+	--acc-2: var(--pink-2); /* color of accent buttons when clicked. */
 
 	/* borders */
 	--border-width: 2px; /* panel border thickness. */
